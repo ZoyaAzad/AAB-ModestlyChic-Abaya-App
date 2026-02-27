@@ -140,6 +140,11 @@ mobilecomputing_project/
 
 ## 📸 Screenshots
 
+<img width="810" height="547" alt="image" src="https://github.com/user-attachments/assets/a2d0f95f-c70c-4731-a14f-4b999e605cc2" />
+<img width="805" height="539" alt="image" src="https://github.com/user-attachments/assets/70d1cc2a-0dee-4586-9b39-4a2ad54f9010" />
+<img width="806" height="553" alt="image" src="https://github.com/user-attachments/assets/dc9768f7-1e49-4c98-92d1-438bba69c193" />
+<img width="230" height="485" alt="image" src="https://github.com/user-attachments/assets/e386c079-a151-4fc3-9602-ab410d574099" />
+<img width="222" height="489" alt="image" src="https://github.com/user-attachments/assets/4c99ba3b-a483-4906-b128-b7444b24161c" />
 
 
 ---
